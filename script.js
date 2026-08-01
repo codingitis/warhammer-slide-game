@@ -50,7 +50,7 @@ function dragDrop() {
 }
 
 function dragEnd() {
-    if (!otherTile.src.includes("3.jpg")) {
+    if (!otherTile.src.includes("9.jpg")) {
         return;
     }
 
